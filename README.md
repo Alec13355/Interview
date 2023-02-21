@@ -11,7 +11,7 @@ Walk through a solution of this problem.
 <Answer Here>
 
 # Question 3 TDD:
-We are going to step through the scenario above and implement it in code in a TDD like scenario. You have been provided a JS project with the test cases commented out and a sample method. We will go test by test to ensure (in a TDD like scenario) we are writing just enough code to satisfy the tests and keeping it simple and readable.
+We are going to step through the scenario above and implement it in code in a TDD like scenario. You have been provided a Dotnet project with the test cases commented out and a sample method. We will go test by test to ensure (in a TDD like scenario) we are writing just enough code to satisfy the tests and keeping it simple and readable.
 
 # Question 4 (If Time Permits)
 Create a JS file and a test file. We will walkthrough solving this problem https://osherove.com/tdd-kata-1 
