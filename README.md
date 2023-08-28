@@ -1,6 +1,11 @@
 # Question 1 Fizzbuzz
 Please print number starting from 1 to 100. When a number is multiple of three, print “Fizz” instead of a number on the console and if multiple of five then print “Buzz” on the console. For numbers which are multiple of three as well five, print “FizzBuzz” on the console.
 
+answer[i] == "FizzBuzz" if i is divisible by 3 and 5.
+answer[i] == "Fizz" if i is divisible by 3.
+answer[i] == "Buzz" if i is divisible by 5.
+answer[i] == i (as a string) if none of the above conditions are true.
+
 # Question 2 Sudo Code:
 Amazon drones
 
